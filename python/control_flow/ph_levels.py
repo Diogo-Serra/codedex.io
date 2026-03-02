@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def validate_ph(ph):
-    if ph < 0 or ph > 7:
+    if ph < 0 or ph > 14:
         print("Invalid ph")
         exit()
 
