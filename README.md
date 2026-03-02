@@ -1,12 +1,14 @@
-# 🌿 Codedex.io – Python Course
+# Codedex.io – Python Course
+
+![Banner](public/pythonanimated-forground.gif)
 
 My solutions and exercises from the [Codedex](https://www.codedex.io) Python course.
 
-## 📚 About
+## About
 
 This repository tracks my progress through the Codedex Python course, covering core programming concepts through hands-on exercises and mini-projects.
 
-## 🗂️ Topics Covered
+## Topics Covered
 
 - Variables & Data Types
 - Control Flow (`if`, `elif`, `else`)
@@ -15,7 +17,7 @@ This repository tracks my progress through the Codedex Python course, covering c
 - Lists & Dictionaries
 - Object-Oriented Programming (Classes, Encapsulation, Inheritance)
 
-## 🚀 Getting Started
+## Getting Started
 
 All exercises are written in **Python 3**. To run any file:
 
@@ -23,7 +25,7 @@ All exercises are written in **Python 3**. To run any file:
 python3 <filename>.py
 ```
 
-## 🔗 Course
+## Course
 
 [codedex.io/python](https://www.codedex.io/python)
 
