@@ -1,6 +1,6 @@
 # Codedex.io – Python Course
 
-![Banner](public/pythonanimated-forground.gif)
+<img src="public/pythonanimated-forground.gif" alt="Banner" width="800"/>
 
 My solutions and exercises from the [Codedex](https://www.codedex.io) Python course.
 
