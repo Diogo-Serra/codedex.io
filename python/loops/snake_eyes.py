@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 import random
 
-dye1 = random.randint(1, 6)
-dye2 = random.randint(1, 6)
-total = dye1 + dye2
+die1 = random.randint(1, 6)
+die2 = random.randint(1, 6)
+total = die1 + die2
 while total != 2:
-    dye1 = random.randint(1, 6)
-    dye2 = random.randint(1, 6)
-    total = dye1 + dye2
     print("Nope")
+    die1 = random.randint(1, 6)
+    die2 = random.randint(1, 6)
+    total = die1 + die2
 print("Snake eyes!")
