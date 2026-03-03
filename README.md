@@ -2,7 +2,7 @@
 
 <img src="public/github-copilots.gif" alt="Banner" width="800"/>
 
-My solutions and exercises from the [Codedex](https://www.codedex.io) platform, covering multiple programming languages and courses.
+Solutions and exercises from the [Codedex](https://www.codedex.io) platform, covering multiple programming languages and courses.
 
 ## About
 
