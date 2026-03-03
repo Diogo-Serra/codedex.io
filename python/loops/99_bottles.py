@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+for i in range(99, 0, -1):
+    print(f"{i} bottles of beer on the wall")
+    print(f"{i} bottles of beer")
+    print("Take one down, pass it around")
