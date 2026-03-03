@@ -24,6 +24,7 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 
 ```
 codedex.io/
+├── git/             # Git course exercises
 ├── python/          # Python course exercises
 ├── Daily_Challenge/ # Daily coding challenges (mixed)
 └── public/          # Assets (images, gifs)
