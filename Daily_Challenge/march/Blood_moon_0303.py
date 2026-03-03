@@ -7,11 +7,11 @@ def blood_moon(time):
     my_timestamps = []
     now = datetime.datetime.strptime(time, "%H:%M")
     later = now + datetime.timedelta(hours=2, minutes=48)
-    my_timestamps.append(later)
+    my_timestamps.append(later.strftime("%H:%M"))
     later = later + datetime.timedelta(hours=2, minutes=48)
-    my_timestamps.append(later)
+    my_timestamps.append(later.strftime("%H:%M"))
     later = later + datetime.timedelta(hours=2, minutes=48)
-    my_timestamps.append(later)
+    my_timestamps.append(later.strftime("%H:%M"))
     return (my_timestamps)
 
 
