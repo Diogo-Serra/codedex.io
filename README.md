@@ -1,31 +1,41 @@
-# Codedex.io – Python Course
+# Codedex.io – All Courses
 
-<img src="public/pythonanimated-forground.gif" alt="Banner" width="800"/>
+<img src="public/github-copilots.gif" alt="Banner" width="800"/>
 
-My solutions and exercises from the [Codedex](https://www.codedex.io) Python course.
+My solutions and exercises from the [Codedex](https://www.codedex.io) platform, covering multiple programming languages and courses.
 
 ## About
 
-This repository tracks my progress through the Codedex Python course, covering core programming concepts through hands-on exercises and mini-projects.
+This repository tracks my progress through the Codedex curriculum. Each folder corresponds to a course/language and contains all related exercises, mini-projects, and daily challenges.
 
-## Topics Covered
+## Courses
 
-- Variables & Data Types
-- Control Flow (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
-- Functions
-- Lists & Dictionaries
-- Object-Oriented Programming (Classes, Encapsulation, Inheritance)
+| Course | Folder | Status |
+|---|---|---|
+| Python | [`python/`](./python/) | 🟢 In Progress |
+| HTML | `html/` | 🔜 Coming Soon |
+| CSS | `css/` | 🔜 Coming Soon |
+| JavaScript | `javascript/` | 🔜 Coming Soon |
+| Command Line | `command-line/` | 🔜 Coming Soon |
+| Git & GitHub | `git/` | 🔜 Coming Soon |
+
+## Structure
+
+```
+codedex.io/
+├── python/          # Python course exercises
+├── Daily_Challenge/ # Daily coding challenges (mixed)
+└── public/          # Assets (images, gifs)
+```
+
+## Daily Challenges
+
+Standalone challenge solutions live in [`Daily_Challenge/`](./Daily_Challenge/), independent of any single course.
 
 ## Getting Started
 
-All exercises are written in **Python 3**. To run any file:
+Each course folder has its own `README.md` with setup and run instructions specific to that language.
 
-```bash
-python3 <filename>.py
-```
+## Platform
 
-## Course
-
-[codedex.io/python](https://www.codedex.io/python)
-
+[codedex.io](https://www.codedex.io)
