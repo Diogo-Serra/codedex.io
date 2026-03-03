@@ -4,10 +4,15 @@ import datetime
 
 # 2 hours and 48 minutes apart
 def blood_moon(time):
-    now = datetime.datetime.strptime(time, "%H:%M")
     my_timestamps = []
-    my_timestamps.append(now + datetime.timedelta(hours=2, minutes=48))
-    my_timestamps.append(datetime.timedelta(hours=2, minutes=48))
-    my_timestamps.append(datetime.timedelta(hours=2, minutes=48))
-    for time in my_timestamps:
-        print(time)
+    now = datetime.datetime.strptime(time, "%H:%M")
+    later = now + datetime.timedelta(hours=2, minutes=48)
+    my_timestamps.append(later)
+    later = later + datetime.timedelta(hours=2, minutes=48)
+    my_timestamps.append(later)
+    later = later + datetime.timedelta(hours=2, minutes=48)
+    my_timestamps.append(later)
+    return (my_timestamps)
+
+
+time = blood_moon("1:00")
