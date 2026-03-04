@@ -12,7 +12,7 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 
 | Course | Folder | Status |
 |---|---|---|
-| Git & GitHub | `git/` | 🟢 In Progress |
+| Git & GitHub | [`git/`](.git/) | 🟢 In Progress |
 | Python | [`python/`](./python/) | 🟢 In Progress |
 | HTML | `html/` | 🔜 Coming Soon |
 | CSS | `css/` | 🔜 Coming Soon |
