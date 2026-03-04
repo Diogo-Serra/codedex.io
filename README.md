@@ -18,7 +18,7 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 | HTML | `html/` | 🔜 Coming Soon |
 | CSS | `css/` | 🔜 Coming Soon |
 | JavaScript | `javascript/` | 🔜 Coming Soon |
-| Command Line | `command-line/` | 🔜 Coming Soon |
+| Command Line | [`command_line/`](./command_line/) | 🟢 In Progress |
 
 
 ## Structure
@@ -28,6 +28,7 @@ codedex.io/
 ├── github_copilot/  # GitHub Copilot course exercises
 ├── git_github/      # Git & GitHub course exercises
 ├── python/          # Python course exercises
+├── command_line/    # Command Line course exercises
 ├── Daily_Challenge/ # Daily coding challenges (mixed)
 └── public/          # Assets (images, gifs)
 ```
