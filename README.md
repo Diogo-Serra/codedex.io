@@ -13,12 +13,12 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 | Course | Folder | Status |
 |---|---|---|
 | GitHub Copilot | [`github_copilot/`](./github_copilot/) | ✅ Completed |
+| Command Line | [`command_line/`](./command_line/) | 🟢 In Progress |
 | Git & GitHub | [`git_github/`](./git_github/) | 🟢 In Progress |
 | Python | [`python/`](./python/) | 🟢 In Progress |
 | HTML | `html/` | 🔜 Coming Soon |
 | CSS | `css/` | 🔜 Coming Soon |
 | JavaScript | `javascript/` | 🔜 Coming Soon |
-| Command Line | [`command_line/`](./command_line/) | 🟢 In Progress |
 
 
 ## Structure
