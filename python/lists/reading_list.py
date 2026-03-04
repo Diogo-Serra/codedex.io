@@ -9,5 +9,6 @@ books = [
 books.append("Pachinko")
 books.pop(1)
 books.pop(1)
+books.append("Silmarillion")
 for book in books:
     print(book)
