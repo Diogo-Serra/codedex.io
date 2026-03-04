@@ -5,4 +5,5 @@ def dog_years(name, age):
     return (f"{name} is {age} years old in human years.")
 
 
-dog_years("Kovu", 6)
+dog = dog_years("Kovu", 6)
+print(dog)
