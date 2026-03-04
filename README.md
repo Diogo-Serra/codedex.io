@@ -13,6 +13,7 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 | Course | Folder | Status |
 |---|---|---|
 | GitHub Copilot | [`github_copilot/`](./github_copilot/) | ✅ Completed |
+| Git & GitHub | [`git_github/`](./git_github/) | 🟢 In Progress |
 | Python | [`python/`](./python/) | 🟢 In Progress |
 | HTML | `html/` | 🔜 Coming Soon |
 | CSS | `css/` | 🔜 Coming Soon |
@@ -25,6 +26,7 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 ```
 codedex.io/
 ├── github_copilot/  # GitHub Copilot course exercises
+├── git_github/      # Git & GitHub course exercises
 ├── python/          # Python course exercises
 ├── Daily_Challenge/ # Daily coding challenges (mixed)
 └── public/          # Assets (images, gifs)
