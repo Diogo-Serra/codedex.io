@@ -14,7 +14,23 @@ list = [
 
 def fortune():
     f = random.randint(0, 7)
-    print(f)
+    match f:
+        case 0:
+            print(list[0])
+        case 1:
+            print(list[1])
+        case 2:
+            print(list[2])
+        case 3:
+            print(list[3])
+        case 4:
+            print(list[4])
+        case 5:
+            print(list[5])
+        case 6:
+            print(list[6])
+        case 7:
+            print(list[7])
 
 
 fortune()
