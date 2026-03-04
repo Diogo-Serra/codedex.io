@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import random
 
+
 class Phrases:
     def __init__(self, index, phrase):
         self.index = index
