@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-len = len("Hello World")
-print(len)
-range(0, 10)
-sum = sum(1, 2)
-print(sum)
+test = list()
+test.append(1)
+test.append(2)
+print(sum(test))
+print(len("Hello World"))
+for i in range(0, 2):
+    print(test[i])
 input("Insert your name: ")
-list("Hello", "World")
-print(list)
