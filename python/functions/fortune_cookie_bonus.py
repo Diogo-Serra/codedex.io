@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import random
 
 class Phrases:
     def __init__(self, index, phrase):
@@ -21,7 +22,4 @@ my_phrases = [
     Phrases(5, "Your heart will skip a beat."),
     Phrases(6, "The fortune you search for is in another cookie."),
     Phrases(7, "Help! I'm being held prisoner in a Chinese bakery!")]
-
-
-test = Phrases.get_phrase(my_phrases, 0)
-print(test)
+print(Phrases.get_phrase(my_phrases, random.randint(0, 7)))
