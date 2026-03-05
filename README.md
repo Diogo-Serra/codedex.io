@@ -16,10 +16,7 @@ This repository tracks my progress through the Codedex curriculum. Each folder c
 | Command Line | [`command_line/`](./command_line/) | ✅ Completed |
 | Git & GitHub | [`git_github/`](./git_github/) | ✅ Completed |
 | Python I | [`python/`](./python/) | ✅ Completed |
-| Python II | [`python_II/`](./python_II/) | 🟢 In Progress |
-| HTML | `html/` | 🔜 Coming Soon |
-| CSS | `css/` | 🔜 Coming Soon |
-| JavaScript | `javascript/` | 🔜 Coming Soon |
+| Python II | [`python_II/`](./python_II/) | ✅ Completed |
 
 
 ## Structure
