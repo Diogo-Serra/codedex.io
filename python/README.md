@@ -25,6 +25,20 @@ All exercises are written in **Python 3**. To run any file:
 python3 <filename>.py
 ```
 
+## Popular Python Packages & Libraries
+
+> These are not covered in the course, but are widely used in the Python ecosystem and worth exploring.
+
+| Category | Libraries |
+|---|---|
+| 🔢 Data Analysis | NumPy, Pandas, SciPy |
+| 📊 Data Visualization | Matplotlib, Seaborn, Plotly |
+| 🧠 Machine Learning | Scikit-learn, TensorFlow |
+| 🌐 Web Scraping | Beautiful Soup |
+| 👾 Game Development | Pygame |
+| 🤖 AI / Chatbots | NLTK, OpenAI |
+| 🛠️ Automation | OS, Requests |
+
 ## Course
 
 [codedex.io/python](https://www.codedex.io/python)
