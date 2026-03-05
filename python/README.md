@@ -10,12 +10,30 @@ This repository tracks my progress through the Codedex Python course, covering c
 
 ## Topics Covered
 
-- Variables & Data Types
-- Control Flow (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
-- Functions
-- Lists & Dictionaries
-- Object-Oriented Programming (Classes, Encapsulation, Inheritance)
+- [x] Hello World (print, strings, user input)
+- [x] Variables & Data Types (int, float, str, bool)
+- [x] Control Flow (`if`, `elif`, `else`)
+- [x] Loops (`for`, `while`)
+- [x] Functions (parameters, return values, scope)
+- [x] Lists (indexing, slicing, list methods)
+- [x] Classes & Objects (OOP, encapsulation, inheritance)
+- [x] Modules (built-in & third-party packages)
+
+## Folder Structure
+
+```
+python/
+├── hello_world/
+├── variables/
+├── control_flow/
+├── loops/
+├── functions/
+├── lists/
+├── classes_objects/
+├── modules/
+│   └── bday/
+└── projects/
+```
 
 ## Getting Started
 
