@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def check_palindrome(sequence: str) -> bool:
-# Write code below 💖
+    sequence = "".join(sequence.lower().split())
     i: int = 0
     j: int = len(sequence) - 1
     while i < j:
@@ -13,5 +13,5 @@ def check_palindrome(sequence: str) -> bool:
     return (palindrome)
 
 
-p = check_palindrome("car")
+p = check_palindrome("Was it a car or a cat I saw")
 print(p)
