@@ -9,6 +9,3 @@ def decode_message(message: str, shift: int) -> str:
         else:
             decoded += chr((ord(ch) - ord("a") - shift) % 26 + ord("a"))
     return decoded
-
-
-decode_message
