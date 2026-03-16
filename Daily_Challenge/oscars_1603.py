@@ -35,9 +35,12 @@ def oscar_pool(predictions):
 
 def test_predictions():
     friends_predictions = [
-        ["@sonny", "One Battle After Another", "Michael B. Jordan", "Jessie Buckley", "Ryan Cooger"],
-        ["@brit896", "Marty Supreme", "Timothée Chalamet", "Jessie Buckley", "Josh Safdie"],
-        ["@tylerwhit", "Sinners", "Michael B. Jordan", "Rose Byrne", "Paul Thomas Anderson"]
+        ["@sonny", "One Battle After Another", "Michael B. Jordan",
+         "Jessie Buckley", "Ryan Cooger"],
+        ["@brit896", "Marty Supreme", "Timothée Chalamet",
+         "Jessie Buckley", "Josh Safdie"],
+        ["@tylerwhit", "Sinners", "Michael B. Jordan",
+         "Rose Byrne", "Paul Thomas Anderson"]
     ]
     print(oscar_pool(friends_predictions))
 
