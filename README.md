@@ -1,4 +1,4 @@
-# Codedex.io – All Courses
+# Codedex.io - All Courses
 
 <img src="public/github-copilots.gif" alt="Banner" width="800"/>
 
@@ -42,4 +42,5 @@ Each course folder has its own `README.md` with setup and run instructions speci
 
 ## Platform
 
-[codedex.io](https://www.codedex.io)
+[codedex.io](https://www.codedex.io) /
+[myprofile](https://www.codedex.io/@Dserra)
